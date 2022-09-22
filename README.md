@@ -1,4 +1,4 @@
-#  🛬 **Travel** 🌏
+#  🛬 **Travel App** 🌏
 
 Travel app web app using Next.js and Tailwind
 
